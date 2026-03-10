@@ -79,7 +79,7 @@ Think:
 
 Soft pinks • Gold accents • Tea cups • Pastries • Garden tea parties
 
-https://github.com/yourusername/syls-tea-party.git
+https://sylver-333.github.io/Syl-s-tea-party/
 
 2. Open the project folder
 
